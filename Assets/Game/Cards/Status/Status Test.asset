@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48a89ef99766545eba803f96b39180f8, type: 3}
+  m_Name: Status Test
+  m_EditorClassIdentifier: 
+  name: Get silky
+  description: You inflict 3 stack of poison on 1 ennemy
+  cost: 1
+  tier: 0
+  type: 2
+  nbTarget: 0
+  target: 0
+  stat: 10
+  zone: 0
+  artwork: {fileID: 21300000, guid: cf818c8a2234b4c2d952441f763ce27a, type: 3}
