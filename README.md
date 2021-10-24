@@ -41,6 +41,8 @@
 ## About The Project
 
 This project is the last project for Keimyung University. A deck builder in the pirate world
+A [Game Design Document](https://github.com/nicklamyeeman/Legacy-of-the-Storm/blob/main/10p-GDD2.pdf) is available for this project.
+
 
 
 ### Built With
